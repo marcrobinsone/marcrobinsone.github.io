@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Tinypres Test
 layout: post
 ---
